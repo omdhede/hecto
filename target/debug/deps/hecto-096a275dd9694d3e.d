@@ -7,5 +7,7 @@ src/editor.rs:
 src/editor/terminal.rs:
 Cargo.toml:
 
+# env-dep:CARGO_PKG_NAME=hecto
+# env-dep:CARGO_PKG_VERSION=0.1.0
 # env-dep:CLIPPY_ARGS=
 # env-dep:CLIPPY_CONF_DIR

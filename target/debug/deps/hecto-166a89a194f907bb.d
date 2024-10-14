@@ -5,3 +5,6 @@
 src/main.rs:
 src/editor.rs:
 src/editor/terminal.rs:
+
+# env-dep:CARGO_PKG_NAME=hecto
+# env-dep:CARGO_PKG_VERSION=0.1.0
